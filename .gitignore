@@ -1,0 +1,10 @@
+# Build output
+/build/
+/dist/
+/out/
+.vs/
+*.user
+__pycache__/
+
+# Local test files: the official BPG samples (copyrighted images), not redistributed.
+/testdata/
